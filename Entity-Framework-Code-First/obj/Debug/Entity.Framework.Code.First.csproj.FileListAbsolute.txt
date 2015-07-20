@@ -22,3 +22,15 @@ D:\Code\Manoj\EntityFramework.CodeFirst\Entity-Framework-Code-First\bin\Debug\En
 D:\Code\Manoj\EntityFramework.CodeFirst\Entity-Framework-Code-First\obj\Debug\Entity.Framework.Code.First.csprojResolveAssemblyReference.cache
 D:\Code\Manoj\EntityFramework.CodeFirst\Entity-Framework-Code-First\obj\Debug\Entity.Framework.Code.First.exe
 D:\Code\Manoj\EntityFramework.CodeFirst\Entity-Framework-Code-First\obj\Debug\Entity.Framework.Code.First.pdb
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\bin\Debug\Entity.Framework.Code.First.exe.config
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\obj\Debug\Entity.Framework.Code.First.exe
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\obj\Debug\Entity.Framework.Code.First.pdb
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\bin\Debug\Entity.Framework.Code.First.exe
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\bin\Debug\Entity.Framework.Code.First.pdb
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\bin\Debug\Entity.Framework.Code.First.Model.dll
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\bin\Debug\EntityFramework.dll
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\bin\Debug\Entity.Framework.Code.First.Model.pdb
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\bin\Debug\EntityFramework.xml
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\obj\Debug\Entity.Framework.Code.First.csprojResolveAssemblyReference.cache
