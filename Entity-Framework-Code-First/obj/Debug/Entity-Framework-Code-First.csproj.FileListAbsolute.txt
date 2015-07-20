@@ -1,0 +1,2 @@
+D:\Projects\Entity-Framework-Code-First\Entity-Framework-Code-First\bin\Debug\Entity-Framework-Code-First.exe.config
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\Entity-Framework-Code-First\bin\Debug\Entity-Framework-Code-First.exe.config

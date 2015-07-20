@@ -1,0 +1,12 @@
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\Entity.Framework.Code.First.TestSuit\bin\Debug\Entity.Framework.Code.First.TestSuit.dll.config
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\Entity.Framework.Code.First.TestSuit\bin\Debug\Entity.Framework.Code.First.TestSuit.dll
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\Entity.Framework.Code.First.TestSuit\bin\Debug\Entity.Framework.Code.First.TestSuit.pdb
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\Entity.Framework.Code.First.TestSuit\bin\Debug\Entity.Framework.Code.First.Model.dll
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\Entity.Framework.Code.First.TestSuit\bin\Debug\EntityFramework.dll
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\Entity.Framework.Code.First.TestSuit\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\Entity.Framework.Code.First.TestSuit\bin\Debug\Entity.Framework.Code.First.Model.pdb
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\Entity.Framework.Code.First.TestSuit\bin\Debug\EntityFramework.xml
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\Entity.Framework.Code.First.TestSuit\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\Entity.Framework.Code.First.TestSuit\obj\Debug\Entity.Framework.Code.First.TestSuit.csprojResolveAssemblyReference.cache
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\Entity.Framework.Code.First.TestSuit\obj\Debug\Entity.Framework.Code.First.TestSuit.dll
+D:\Code\Manoj\entity-framework-code-first\Entity-Framework-Code-First\Entity.Framework.Code.First.TestSuit\obj\Debug\Entity.Framework.Code.First.TestSuit.pdb
