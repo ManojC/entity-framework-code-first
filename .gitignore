@@ -16,6 +16,7 @@ TestResults
 # Build results
 [Dd]ebug/
 [Rr]elease/
+obj/
 x64/
 *_i.c
 *_p.c
@@ -24,6 +25,7 @@ x64/
 *.obj
 *.pch
 *.pdb
+*.cache
 *.pgc
 *.pgd
 *.rsp
