@@ -7,7 +7,7 @@ namespace Entity.Framework.Code.First.Model.Model
         public DatabaseContext()
             : base("name=UserDBConnectionString")
         {
-
+            Database.SetInitializer(new CodeFirstDatabaseInitializer());
         }
 
         public DbSet<Permission> Permissions { get; set; }

@@ -47,6 +47,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CodeFirstDatabaseInitializer.cs" />
+    <Compile Include="Model\CodeFirstDatabaseInitializer.cs" />
     <Compile Include="Model\DatabaseContext.cs" />
     <Compile Include="Model\Permission.cs" />
     <Compile Include="Model\User.cs" />
